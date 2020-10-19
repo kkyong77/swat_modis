@@ -1,5 +1,5 @@
-# using modis product to calibrate/validate the SWAT model predictions
-## used modis data
+# using MODIS products to calibrate/validate the SWAT model predictions
+## used MODIS data
 - modis ET
 - modis LAI
 - modis NPP/GPP 
